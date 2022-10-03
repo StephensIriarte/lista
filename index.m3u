@@ -17,5 +17,19 @@ https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?Playlist
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="454" tvg-name="TVN - Reuters" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN - Reuters | CL
 https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO Family
-http://f7.mytvxweb.net:8082/18096/mpegts?token=MxPReBvRE1
+#EXTINF:-1 tvg-id="" tvg-name="CINE TV: Cinecanal " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal.png" group-title="CINE Y SERIES ⭐",CINE TV: Cinecanal
+http://hispanotv.net:8080/david/david2022/85844
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinemax (MX)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="CINE Y SERIES ⭐",Cine TV: Cinemax (MX)
+http://hispanotv.net:8080/david/david2022/85846
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: FX HD (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/fx_hd.png" group-title="CINE Y SERIES ⭐",Cine TV: FX HD (CO)
+http://hispanotv.net:8080/david/david2022/85872
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Golden Premier" tvg-logo="https://hosting.photobucket.com/images/nn175/DJCATRACHO_01/Golden_premier.png" group-title="CINE Y SERIES ⭐",Cine TV: Golden Premier
+http://hispanotv.net:8080/david/david2022/85877
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Plus HD ©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/hbo_plus.png" group-title="CINE Y SERIES ⭐",Cine TV: HBO Plus HD ©
+http://hispanotv.net:8080/david/david2022/85887
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Robots HD" tvg-logo="https://1.bp.blogspot.com/-LO54csO94Zk/WgiVN_Whf9I/AAAAAAABmW4/p3DbjG7gNbAsxSjjoegbQocnFu5Q7np1gCLcBGAs/s1600/TRANSFORMERS-BUMBLEBEE.jpeg" group-title="24/7 - Peliculas",Cine TV: Sr Cine Robots HD
+http://hispanotv.net:8080/david/david2022/86062
+#EXTINF:-1 tvg-id="" tvg-name="SERIE A:ESPN 1" tvg-logo="http://castlempire.site:8080/images/250124906e29f14ae64a4748f4ae406c.png" group-title="SERIE A ⚽",SERIE A:ESPN 1
+http://hispanotv.net:8080/david/david2022/87458
+#EXTINF:-1 tvg-id="" tvg-name="SERIE A: ESPN 2" tvg-logo="http://castlempire.site:8080/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="SERIE A ⚽",SERIE A: ESPN 2
+http://hispanotv.net:8080/david/david2022/87459
