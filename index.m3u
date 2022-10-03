@@ -17,17 +17,5 @@ https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?Playlist
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="454" tvg-name="TVN - Reuters" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN - Reuters | CL
 https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO:Cartoon Network
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAXPRIME
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL CHANNEL
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Channels",FOXCINEMA
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="Channels",Discovery Channel
-http://80.80.160.168/live/8/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO Family
+http://f7.mytvxweb.net:8082/18096/mpegts?token=MxPReBvRE1
